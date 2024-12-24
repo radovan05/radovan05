@@ -25,14 +25,15 @@
         <h2>📚 Learning & Growth</h2>
         <p>I am constantly learning and improving my skills. Here are a few areas I’m currently focusing on:</p>
         <ul>
-            <li></li>
+            <li> Curently i am learning TypeScript.</li>
         </ul>
         <h2>💬 Get In Touch</h2>
         <div class="contact-info">
             <p>You can reach out to me via:</p>
             <ul>
-                <li><strong>LinkedIn:</strong> <a href="Your-LinkedIn-URL">Your LinkedIn URL</a></li>
-                <li><strong>Email:</strong> <a href="mailto:Your-Email-Address">Your Email Address</a></li>
+                <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/uros-radovanovic-aa53ab33b/">Uros Radovanvoic LinkedIn</a></li>
+                <li><strong>Email:</strong> <a href="mailto:urossradovanovic@gmail.com">urossradovanovic@gmail.com</a></li>
+                <li><strong>Codewars:</strong><a href="https://www.codewars.com/users/radovan05">radovan05 Codewars</a> </li>
             </ul>
         </div>
     </div>
