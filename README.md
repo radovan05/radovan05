@@ -6,7 +6,7 @@
     <div class="container">
         <h2>🚀 Technologies & Tools</h2>
         <ul>
-            <li><strong>Languages:</strong> C#, C++, JavaScript, HTML, CSS, Python</li>
+            <li><strong>Languages:</strong> C#, C++, JavaScript, HTML, CSS</li>
             <li><strong>Frameworks & Libraries:</strong> React, .NET</li>
             <li><strong>Databases:</strong> MySQL</li>
             <li><strong>Version Control:</strong> Git, GitHub</li>
