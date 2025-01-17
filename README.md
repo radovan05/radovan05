@@ -24,8 +24,11 @@
         <p>Feel free to explore and provide feedback or contribute to any of the projects.</p>
         <h2>📚 Learning & Growth</h2>
         <p>I am constantly learning and improving my skills. Here are a few areas I’m currently focusing on:</p>
+         Curently i am learning:
         <ul>
-            <li> Curently i am learning TypeScript.</li>
+            <li>  TypeScript</li>
+            <li>  React Native</li>
+            <li>  Angular</li>
         </ul>
         <h2>💬 Get In Touch</h2>
         <div class="contact-info">
